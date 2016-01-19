@@ -1,0 +1,22 @@
+{
+    "name": "paulvl/larassets",
+    "description": "Useful assets for Laravel",
+    "keywords": ["bootsrap" ,"jquery", "font-awesome"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Paul Vidal",
+            "email": "i@paulvl.me"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.5.9",
+        "laravelcollective/html": "5.2.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Paulvl\\Larassets\\": "src/"
+        }
+    }
+}
