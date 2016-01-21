@@ -1,1 +1,1 @@
-<link href='{{ asset("assets/font-awesome/$version/css/font-awesome.min.css") }}' rel="stylesheet">
+<link href='{{ asset("assets/font-awesome/$version/css/font-awesome.min.css") }}' rel='stylesheet' type='text/css'>
